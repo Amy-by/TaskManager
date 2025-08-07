@@ -40,7 +40,7 @@
 - 从下拉框选择任务优先级（高/中/低）
 - 点击「添加任务」按钮，任务会立即显示在下方列表中
 
-  ![Uploading image.png…]()
+  ![添加任务演示](https://github.com/Amy-by/TaskManager/blob/main/qt_task_manager.png)
  
   *（示意图：输入框 + 优先级选择 + 添加按钮）*
 
